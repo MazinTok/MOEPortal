@@ -1,0 +1,140 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sa.gov.moe.he.moeportal.ElctrosharingFragment">
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentTop="false"
+        android:layout_centerInParent="true"
+        android:id="@+id/gridView1">
+
+        <ImageButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/estetlaImageButton"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:background="@drawable/estetla"
+            android:layout_margin="20dp"
+            android:adjustViewBounds="false"
+            android:layout_marginBottom="0dp"
+            android:clickable="true" />
+
+        <ImageButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/fekrahImageButton"
+            android:layout_row="0"
+            android:layout_column="1"
+            android:background="@drawable/fekrah"
+            android:layout_margin="20dp"
+            android:layout_marginBottom="0dp" />
+
+        <ImageButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/estebeanimageButton"
+            android:layout_row="2"
+            android:layout_column="0"
+            android:background="@drawable/estebean"
+            android:layout_margin="20dp"
+            android:layout_marginBottom="0dp" />
+
+        <ImageButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/montadaImageButton"
+            android:layout_row="2"
+            android:layout_column="1"
+            android:background="@drawable/montda"
+            android:layout_margin="20dp"
+            android:layout_marginBottom="0dp" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/archivingImageButton"
+            android:layout_row="4"
+            android:layout_column="0"
+            android:background="@drawable/archiving" />
+
+        <ImageButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/modonah"
+            android:layout_row="4"
+            android:layout_column="1"
+            android:background="@drawable/modonah"
+            android:layout_margin="20dp"
+            android:layout_marginBottom="0dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/estetla"
+            android:id="@+id/textView"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/fekrah"
+            android:id="@+id/textView2"
+            android:layout_column="1"
+            android:layout_row="1"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/montda"
+            android:id="@+id/textView3"
+            android:layout_gravity="center"
+            android:layout_column="1"
+            android:layout_row="3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/archiving"
+            android:id="@+id/textView7"
+            android:layout_row="5"
+            android:layout_column="0"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/modonah"
+            android:id="@+id/textView6"
+            android:layout_column="1"
+            android:layout_row="5"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/estbanah"
+            android:id="@+id/textView5"
+            android:layout_row="3"
+            android:layout_column="0"
+            android:layout_gravity="center" />
+
+    </GridLayout>
+</RelativeLayout>

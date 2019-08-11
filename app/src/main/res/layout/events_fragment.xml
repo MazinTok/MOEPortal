@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sa.gov.moe.he.moeportal.EventsFragment">
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewEvent"
+        android:layout_alignBottom="@+id/Eventstxt"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/eventsicon"
+        android:layout_alignTop="@+id/Eventstxt" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/events"
+        android:id="@+id/Eventstxt"
+        android:layout_gravity="right|top"
+        android:gravity="end|right"
+        android:layout_alignParentRight="false"
+        android:textColor="#ffb3a47e"
+        android:textSize="30dp"
+        android:layout_margin="10dp"
+        android:layout_toLeftOf="@+id/imageViewEvent"
+        android:layout_marginRight="0dp" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/EventslistView"
+        android:layout_gravity="left|center_vertical"
+        android:layout_alignParentBottom="false"
+        android:layout_below="@+id/Eventstxt"
+        android:fadeScrollbars="false"
+
+        android:scrollbarThumbVertical="@drawable/custom_scroll_style"
+        />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar3"
+        android:layout_alignTop="@+id/Newstxt"
+        android:layout_centerHorizontal="true"
+        />
+
+
+</RelativeLayout>

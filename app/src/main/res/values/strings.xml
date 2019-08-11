@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">وزارة التعليم - التعليم العالي</string>
+
+    <string name="title_section1">الرئيسية</string>
+    <string name="title_section2">الخدمات الإلكترونية </string>
+    <string name="title_section3">المشاركة الإجتماعية الإلكترونية</string>
+    <string name="title_section4">تواصل</string>
+    <string name="title_section5">تسجيل دخول</string>
+    <string name="title_section6">الفعاليات</string>
+    <string name="title_section7">اتصل بنا</string>
+
+    <string name="news">الأخبار</string>
+    <string name="events">فعاليات شهر</string>
+
+
+    <string name="safhat">الصفحات</string>
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_services_">Services_Activity</string>
+
+
+    <!-- elcronic icons cat  -->
+    <string name="estbanah">الاستبيانات</string>
+    <string name="estetla">استطلاعات الرأي</string>
+    <string name="fekrah">أضف فكرة</string>
+    <string name="mosadah">المساعدة والدعم</string>
+    <string name="montda">المنتدى</string>
+    <string name="modonah">المدونة</string>
+
+    <string name="archiving">المشاركة الاجتماعية الالكترونية</string>
+
+
+    <string name="ContactUs"> الرياض - تقاطع شارع المعذر بشارع التخصصي
+صندوق البريد: 225085
+الرمز البريدي: 11153 ​
+الهاتف: 966114415555+
+الفاكس: 966114419004+
+البريد الإلكتروني 1 :contact@mohe.gov.sa
+البريد الإلكتروني 2 :info@mohe.gov.sa
+​​</string>
+
+
+<!-- services cat  -->
+    <string name="Ser1">عام</string>
+    <string name="Ser2">الطلاب</string>
+    <string name="Ser3">الجامعات</string>
+    <string name="Ser4">الملحقيات</string>
+    <string name="Ser5">باحثين</string>
+    <string name="Ser6">الجهات الحكومية والخاصة</string>
+
+    <!-- services items  -->
+
+    <string name="chaild1">	خدمة مؤهل	</string>
+    <string name="chaild2">	خدمة المعارض	</string>
+    <string name="chaild3">	إرسال فعالية علمية	</string>
+    <string name="chaild4">	إرسال توصية	</string>
+    <string name="chaild5">تواصل</string>
+
+
+    <string name="chaild6">	خدمة معادلة الشهادات	 </string>
+    <string name="chaild7">	برنامج المنح الداخلية للجامعات والكليات الأهلية	</string>
+    <string name="chaild8">	التعليم العالي الأهلية	</string>
+    <string name="chaild9">	خدمة مؤهل	</string>
+    <string name="chaild10">	خدمات بكالوريوس طب الدول العربية	</string>
+    <string name="chaild11">	خدمة انتقال طالب من دولة	</string>
+    <string name="chaild12">	خدمة الانتقال إلى دولة للدارسين على حسابهم الخاص	</string>
+    <string name="chaild13">	خدمة إفادة بالتخرج	</string>
+    <string name="chaild14">خدمة تعديل بيانات الطالب الشخصية</string>
+    <string name="chaild15">	خدمة تغيير التخصص	</string>
+    <string name="chaild16">	خدمة اضافة تقرير دراسي	</string>
+    <string name="chaild17">	خدمة ترقية بعثة للموظفين المبتعثين من جهات حكومية	</string>
+    <string name="chaild18">	خدمة تعديل تقرير دراسي	</string>
+    <string name="chaild19">	خدمة تغيير جامعة أو كلية	</string>
+    <string name="chaild20">	خدمة تغيير معهد اللغة	</string>
+    <string name="chaild21">	خدمة حضور مؤتمر أو ندوة	</string>
+    <string name="chaild22">	خدمة الموافقة للدراسة في الخارج على الحساب الخاص	</string>
+    <string name="chaild23">	خدمة طلب دورات تدريبية	</string>
+    <string name="chaild24">	خدمة طلب رحلة علمية	</string>
+    <string name="chaild25">	خدمة فتح ملف لمرافق دارس	</string>
+    <string name="chaild26">	خدمة مصادقة الشهادات	</string>
+    <string name="chaild27">	خدمة إضافة مؤهل دراسي لملف الدارس في الخارج	</string>
+    <string name="chaild28">	خدمة إضافة بيانات جواز السفر للطلاب	</string>
+    <string name="chaild29">	خدمة تعديل بيانات الحساب البنكي للطالب	</string>
+    <string name="chaild30">	خدمة تحديث بيانات الاتصال للطالب	</string>
+    <string name="chaild31">	خدمة فتح ملف طالب	</string>
+    <string name="chaild32">	خدمة طلب تذكرة سفر	</string>
+    <string name="chaild33">	خدمة إعادة صرف للطالب	</string>
+    <string name="chaild34">	خدمة طلب تعويض مالي للطالب	</string>
+    <string name="chaild35">	خدمة صرف فروقات	</string>
+    <string name="chaild36">	خدمة ضمان مالي	</string>
+    <string name="chaild37">	خدمة تمديد الصرف	</string>
+    <string name="chaild38">	خدمة كشف حساب	</string>
+    <string name="chaild39">	خدمة مكافأة التميز للطالب	</string>
+    <string name="chaild40">	خدمة استمرار في دراسة اللغة	</string>
+    <string name="chaild41">	خدمة العودة من التأجيل	</string>
+    <string name="chaild42">	خدمة إعادة لعضوية البعثة	</string>
+    <string name="chaild43">	خدمة إنهاء البعثة	</string>
+    <string name="chaild44">	خدمة تأجيل البعثة	</string>
+    <string name="chaild45">	خدمة تعديل تاريخ بداية البعثة	</string>
+    <string name="chaild46">	خدمة تعديل تاريخ نهاية البعثة	</string>
+    <string name="chaild47">	خدمة إلحاق مرافق بعضوية البعثة	</string>
+    <string name="chaild48">	خدمة إلحاق بالبعثة	</string>
+    <string name="chaild49">	خدمة تمديد بعثة	</string>
+    <string name="chaild50">	خدمة إصدار تعريف للطالب	</string>
+    <string name="chaild51">	خدمة استمرار بعثة مرافق أو محرم	</string>
+    <string name="chaild52">	خدمة تغيير محرم الطالبة	</string>
+    <string name="chaild53">	خدمة اضافة مرافق للطالب	</string>
+    <string name="chaild54">	خدمة فصل بعثة مرافق /محرم	</string>
+    <string name="chaild55">	خدمة إعادة النظر	</string>
+    <string name="chaild56">	خدمة استفسار	</string>
+    <string name="chaild57">	خدمة طلبات عامة للطالب الدارس بالخارج	</string>
+    <string name="chaild58">	خدمة الموافقة على عرض السيرة الذاتية للخريجين من خارج المملكة	</string>
+    <string name="chaild59">	خدمة طلب إجازة	</string>
+    <string name="chaild60">	خدمة إعادة السنة الدراسية	</string>
+    <string name="chaild61">	خدمة الحاق مرافق دارس بعضوية البعثة	</string>
+    <string name="chaild62">	خدمة تجديد التأشيرة	</string>
+    <string name="chaild63">	خدمة تعديل بيانات مرافق	</string>
+    <string name="chaild64">	برنامج المنح الداخلية للجامعات والكليات الأهلية	</string>
+
+
+    <string name="chaild65">	خدمة إدارة الندوات والمؤتمرات	</string>
+    <string name="chaild66">	التعليم العالي الأهلية	</string>
+    <string name="chaild67">	خدمة إحصاءات التعليم العالي	</string>
+    <string name="chaild68">	خدمة مقبول	</string>
+    <string name="chaild69">	خدمة المنح الدراسية الحكومية لغير السعوديين في الجامعات الحكومية	</string>
+    <string name="chaild70">	خدمة مستشارون	</string>
+    <string name="chaild71">خدمة  الكتاب</string>
+    <string name="chaild72">خدمة مشروع</string>
+    <string name="chaild73">	خدمة متابعة الجامعات الاهلية	</string>
+
+    <string name="chaild74">خدمة معارض الكتاب</string>
+    <string name="chaild75">	خدمات سفير المالي والإداري	</string>
+    <string name="chaild76">	خدمات سفير الوثائق	</string>
+    <string name="chaild77">	خدمة الانتقال إلى دولة للدارسين على حسابهم الخاص	</string>
+    <string name="chaild78">خدمة تعديل بيانات الطالب الشخصية</string>
+    <string name="chaild79">	خدمة إضافة مؤهل دراسي لملف الدارس في الخارج	</string>
+    <string name="chaild80">	خدمة إعادة صرف للطالب	</string>
+    <string name="chaild81">	خدمة تسديد رسوم	</string>
+    <string name="chaild82">	خدمة طلب تعويض مالي للطالب	</string>
+    <string name="chaild83">	خدمة صرف فروقات	</string>
+    <string name="chaild84">	خدمة ضمان مالي	</string>
+    <string name="chaild85">	خدمة إضافة بيانات التأمين الطبي للطلاب	</string>
+    <string name="chaild86">	خدمة تمديد الصرف	</string>
+    <string name="chaild87">	خدمة إنهاء البعثة	</string>
+    <string name="chaild88">	خدمة إلحاق أقارب موفدين بعضوية البعثة	</string>
+    <string name="chaild89">	خدمة إلحاق بالبعثة	</string>
+    <string name="chaild90">	خدمة الإفادة عن طالب	</string>
+    <string name="chaild91">	خدمة ضمان مالي مؤقت	</string>
+
+    <string name="chaild92">	خدمة إدارة الندوات والمؤتمرات	</string>
+    <string name="chaild93">	لائحة المعادلات	</string>
+    <string name="chaild94">	خدمة الشؤون الدراسية	</string>
+    <string name="chaild95">	خدمة الإستفسار للطلبة المبتعثين	</string>
+
+    <string name="chaild96">	خدمة استعلام عن حالة قرار معادلة	</string>
+    <string name="chaild97">	خدمة الإفادة عن طالب	</string>
+    <string name="chaild98">خدمة مؤهل</string>
+
+
+    <string name="title_activity_service_web_view">ServiceWebViewActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_shaw_news_activity2">ShawNewsActivity2Activity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+</resources>
